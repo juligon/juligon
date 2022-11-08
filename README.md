@@ -3,7 +3,7 @@
 
 ### About me
 Hi there 👋
-I'm Juliana and I´m a Full Stack Web Developer from Entre Ríos, Argentina.
+I'm Juliana and I'm a Full Stack Web Developer from Entre Ríos, Argentina.
 
 ### Skills
 - Front-End: React, Redux
