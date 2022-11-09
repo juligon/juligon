@@ -5,7 +5,7 @@
 Hi there 👋
 I'm Juliana and I'm a Full Stack Web Developer from Entre Ríos, Argentina.
 
-### Skills
+### Skills 💻
 - Front-End: React, Redux
 - Back-end: NodeJS, Express
 - Databases: PostgreSQL, Sequelize
@@ -18,7 +18,7 @@ I'm Juliana and I'm a Full Stack Web Developer from Entre Ríos, Argentina.
 - Books Nook (E-commerce)
 - Countries App
 
-### Connect with me
+### Connect with me 📞
 - https://www.linkedin.com/in/juligon13/
 
 
