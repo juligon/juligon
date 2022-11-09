@@ -15,7 +15,7 @@ I'm Juliana and I'm a Full Stack Web Developer from Entre Ríos, Argentina.
 - Scrum
 
 ### Main Projects
-- Books Nook (E-commerce)
+- Books Nook (E-commerce): https://booksnook.vercel.app/
 - Countries App
 
 ### Connect with me 📞
