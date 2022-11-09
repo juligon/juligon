@@ -20,6 +20,7 @@ I'm Juliana and I'm a Full Stack Web Developer from Entre Ríos, Argentina.
 
 ### Connect with me 📞
 - https://www.linkedin.com/in/juligon13/
+- https://github.com/JuliGon
 
 
 
