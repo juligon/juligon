@@ -36,5 +36,3 @@ I'm Juliana and I'm a Full Stack Web Developer from Entre Ríos, Argentina.
 
 
 
-
-
