@@ -1,7 +1,5 @@
-![b540f6db9f6a85ecfdda680f9d2fcbbb](https://user-images.githubusercontent.com/102985224/211412477-56c0279f-f49f-426f-9a6f-5272a78eb9d5.jpg)
+### About me  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
-
-### About me
 Hi there 👋
 I'm Juliana and I'm a Full Stack Web Developer from Entre Ríos, Argentina.
 
