@@ -1,7 +1,6 @@
 ### About me 
 Hi there 👋
-I'm Juliana and I'm a Full Stack Web Developer 
-from Entre Ríos, Argentina.
+I'm Juliana and I'm a Full Stack Web Developer from Entre Ríos, Argentina.
 
 <img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="300">
 
@@ -24,7 +23,6 @@ from Entre Ríos, Argentina.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 
 ### Main Projects
 - Books Nook (E-commerce): https://booksnook.vercel.app/
