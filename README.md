@@ -1,8 +1,10 @@
 ### About me 
-Hi there 👋
-I'm Juliana and I'm a Full Stack Web Developer from Entre Ríos, Argentina.
 
-<img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="300">
+Hi there 👋
+
+<img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="300" align="center">
+
+I'm Juliana and I'm a Full Stack Web Developer from Entre Ríos, Argentina.
 
 ### Skills 💻
 
