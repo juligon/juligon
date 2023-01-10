@@ -1,5 +1,4 @@
-### About me  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
-
+### About me 
 Hi there 👋
 I'm Juliana and I'm a Full Stack Web Developer 
 from Entre Ríos, Argentina.
