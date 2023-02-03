@@ -28,7 +28,7 @@ I'm Juliana and I'm a Full Stack Web Developer from Entre Ríos, Argentina.
 
 ## Main Projects
 - Books Nook (E-commerce): https://booksnook.vercel.app/
-- Countries App
+- Countries App: https://tothemoonandback.vercel.app/
 
 ## Connect with me 
 - https://www.linkedin.com/in/juligon13/
