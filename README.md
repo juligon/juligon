@@ -4,7 +4,9 @@ Hi there 👋
 
 <img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" width="300" align="center">
 
-I'm Juliana and I'm a Full Stack Web Developer from Entre Ríos, Argentina.
+I'm Juliana and I'm a web developer located in Argentina. Since a young age, I've been passionate about technology and design, and have dedicated a significant part of my career to exploring how these two fields can work together to create innovative and attractive solutions. 
+I started my career in graphic design, working on different projects in areas such as branding, social media, and editorial design. Over  time, I discovered my interest in web development and decided to learn programming to bring my designs to life. Since then, I've been working as a freelance web developer, building complete projects from scratch.
+I'm comfortable working with different technologies, including HTML, CSS, JavaScript, React, Figma, among others.
 
 ## Skills 
 
@@ -26,11 +28,8 @@ I'm Juliana and I'm a Full Stack Web Developer from Entre Ríos, Argentina.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Main Projects
-- Books Nook (E-commerce): https://booksnook.vercel.app/
-- Countries App: https://tothemoonandback.vercel.app/
-
 ## Connect with me 
+- https://juligon.com.ar/
 - https://www.linkedin.com/in/juligon13/
 - https://github.com/juligon
 
