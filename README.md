@@ -43,7 +43,7 @@ I'm comfortable working with different technologies, including HTML, CSS, JavaSc
 ## Connect with me 
 - https://juligon.com.ar/
 - https://www.linkedin.com/in/juligon13/
-- https://github.com/juligon
+- juligon.dev@gmail.com
 
 
 
