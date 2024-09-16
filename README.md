@@ -41,7 +41,7 @@ I'm comfortable working with different technologies, including HTML, CSS, JavaSc
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ## Connect with me 
-- https://juligon.com.ar/
+- https://juligon.netlify.app/
 - https://www.linkedin.com/in/juligon13/
 - juligon.dev@gmail.com
 
