@@ -41,7 +41,7 @@ I'm comfortable working with different technologies, including HTML, CSS, JavaSc
 ## Connect with me 
 - https://juligon.netlify.app/
 - https://www.linkedin.com/in/juligon13/
-- juligon.dev@gmail.com
+- juligonzalezavila@gmail.com
 
 
 
